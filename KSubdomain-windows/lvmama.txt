@@ -1,0 +1,355 @@
+pc.lvmama.com=>120.133.219.89
+trace.lvmama.com=>49.234.242.130
+lijiang.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+img4.lvmama.com=>CNAME img-1253170553.image.myqcloud.com=>CNAME img-1253170553.image.myqcloud.com.cdn.dnsv1.com=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn.cjt.tx.aopntcdn.cn=>112.25.105.107=>112.26.228.73=>223.111.119.83=>223.111.117.103=>36.150.35.231
+munion.lvmama.com=>118.89.126.225
+vacations.lvmama.com=>49.234.242.130
+main.lvmama.com=>120.133.219.89
+sd.lvmama.com=>120.133.219.89
+mind.lvmama.com=>118.89.126.225
+mad.lvmama.com=>120.133.219.79
+bus.lvmama.com=>120.133.219.89
+guide.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+imap.lvmama.com=>CNAME imap.exmail.qq.com=>CNAME imap-v6.exmail.qq.com=>120.232.22.49=>120.232.27.164=>112.60.20.192=>112.53.42.125
+wuxi.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+git.lvmama.com=>10.200.3.13
+shanxi.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+mailer.lvmama.com=>114.80.79.194
+cl.lvmama.com=>CNAME super.lvmama.com=>120.133.219.88
+svn.lvmama.com=>10.200.3.13
+broadway.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+abe.lvmama.com=>121.4.18.105
+op.lvmama.com=>120.133.219.78
+worldcup.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+www1.lvmama.com=>120.133.219.89
+suzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+shouji.lvmama.com=>118.25.118.174
+xl.lvmama.com=>120.133.219.88
+work.lvmama.com=>120.133.219.72
+sct.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+bbs.lvmama.com=>139.224.52.251=>139.224.52.175
+huzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+flg.lvmama.com=>118.89.126.225
+f.lvmama.com=>212.64.119.221
+phpadmin.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+bie.lvmama.com=>120.133.219.88
+shanghai.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+iguide.lvmama.com=>CNAME iguide.lvmama.ccgslb.com.cn
+online.lvmama.com=>118.89.126.225
+zt.lvmama.com=>120.133.219.89
+risk.lvmama.com=>120.133.219.88
+devops.lvmama.com=>10.200.3.13
+ningbo.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+pic1.lvmama.com=>CNAME pic.lvmama.ccgslb.com.cn
+jiaxing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+dm.lvmama.com=>180.169.51.94
+dc.lvmama.com=>49.234.242.130
+diy.lvmama.com=>120.133.219.89
+smtp.lvmama.com=>CNAME smtp.exmail.qq.com=>CNAME smtp-v6.exmail.qq.com=>120.232.22.49=>112.60.20.192=>112.53.42.125=>120.232.27.164
+openapi.lvmama.com=>120.133.219.88
+jiangxi.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+pic.lvmama.com=>CNAME pic.lvmama.com.bsclink.cn=>CNAME upichqipv6.v.bsclink.cn=>223.108.61.109=>223.108.61.112=>223.108.61.101=>223.108.61.104=>223.108.61.113=>223.108.61.99=>223.108.61.102=>223.108.61.105=>223.108.61.108=>223.108.61.111=>223.108.61.103=>223.108.61.106
+post.lvmama.com=>114.80.79.198
+m.lvmama.com=>118.89.126.225
+dim.lvmama.com=>120.133.219.77
+obs.lvmama.com=>CNAME obs.lvmama.com.livepush.myqcloud.com=>CNAME obs.lvmama.com.tlivepush.com=>CNAME yunlivepush.msf.tencent-cloud.com=>36.155.204.177=>36.155.227.167=>36.155.163.125=>36.155.186.188=>36.155.204.43=>36.155.205.170=>36.155.186.192=>36.155.204.105=>36.155.186.29=>36.155.224.110=>36.155.205.149=>36.155.224.124=>36.155.163.41=>36.155.224.114=>36.155.233.110=>36.155.201.242
+web.lvmama.com=>120.133.219.120
+union.lvmama.com=>212.64.119.221
+guilin.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+pop.lvmama.com=>CNAME pop.exmail.qq.com=>120.232.27.164=>112.60.20.192=>112.53.42.125=>120.232.22.49
+conf.lvmama.com=>10.200.4.80
+pms.lvmama.com=>120.133.219.73
+fx.lvmama.com=>212.64.119.221
+dt.lvmama.com=>180.169.51.94
+biz.lvmama.com=>120.133.219.120
+dalian.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+train.lvmama.com=>120.133.219.89
+static.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+e.lvmama.com=>120.133.219.88
+gd.lvmama.com=>120.133.219.89
+pepsi.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+sc.lvmama.com=>120.133.219.89
+dfp.lvmama.com=>120.133.219.83
+trip.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+nexus.lvmama.com=>10.200.3.13
+md.lvmama.com=>212.64.46.250
+alipay.lvmama.com=>118.25.118.174
+t.lvmama.com=>120.133.219.89
+chunjie.lvmama.com=>120.133.219.89
+sandbox.lvmama.com=>120.133.219.88
+hangzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+linan.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+beijing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+img2.lvmama.com=>CNAME img-1253170553.image.myqcloud.com=>CNAME img-1253170553.image.myqcloud.com.cdn.dnsv1.com=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn.cjt.tx.aopntcdn.cn=>36.150.35.231=>223.111.119.83=>112.26.228.73=>112.25.105.107=>223.111.117.103
+xizang.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+img1.lvmama.com=>CNAME img-1253170553.image.myqcloud.com=>CNAME img-1253170553.image.myqcloud.com.cdn.dnsv1.com=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn.cjt.tx.aopntcdn.cn=>112.25.105.107=>223.111.119.83=>223.111.117.103=>36.150.35.231=>112.26.228.73
+mall.lvmama.com=>118.89.126.225
+henan.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+haerbin.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+tuan.lvmama.com=>120.133.219.81
+pcadmin.lvmama.com=>120.133.219.83
+ipm.lvmama.com=>10.200.2.90
+res.lvmama.com=>49.234.242.130
+ai.lvmama.com=>49.234.242.130
+img3.lvmama.com=>CNAME img-1253170553.image.myqcloud.com=>CNAME img-1253170553.image.myqcloud.com.cdn.dnsv1.com=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn.cjt.tx.aopntcdn.cn=>223.111.117.103=>36.150.35.231=>223.111.119.83=>112.26.228.73=>112.25.105.107
+zijia.lvmama.com=>120.133.219.89
+child.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+tech.lvmama.com=>42.192.63.114
+youlun.lvmama.com=>120.133.219.89
+login.lvmama.com=>120.133.219.89
+bdc.lvmama.com=>49.234.242.130
+changzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+promo.lvmama.com=>120.133.219.80
+sonar.lvmama.com=>10.200.3.13
+2010.lvmama.com=>103.253.206.20
+ems.lvmama.com=>114.80.217.180
+ord.lvmama.com=>120.133.219.89
+my.lvmama.com=>120.133.219.89
+d.lvmama.com=>118.25.118.174
+ebooking.lvmama.com=>49.234.242.130
+sas.lvmama.com=>212.64.119.221
+www.lvmama.com=>CNAME www.lvmama.com.bsclink.cn=>CNAME upichq.v.bsclink.cn=>120.220.20.25=>120.220.20.23=>120.220.20.20=>120.220.20.24=>112.47.52.26=>120.220.20.21=>120.220.20.22
+crm.lvmama.com=>120.133.219.88
+shaoxing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+chongqing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+xian.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+zhangjiajie.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+zhoushan.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+weixin.lvmama.com=>118.25.118.174
+open.lvmama.com=>212.64.119.221
+nanjing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+newinfo.lvmama.com=>120.133.219.81
+pic4.lvmama.com=>CNAME pic.lvmama.ccgslb.com.cn
+fit.lvmama.com=>120.133.219.89
+bl.lvmama.com=>120.133.219.89
+nebula.lvmama.com=>120.133.219.88
+hotel.lvmama.com=>120.133.219.89
+m1.lvmama.com=>120.133.219.75
+rhino.lvmama.com=>120.133.219.83
+cc.lvmama.com=>10.0.1.12
+yd.lvmama.com=>118.89.126.225
+super.lvmama.com=>120.133.219.88
+opt.lvmama.com=>120.133.219.120
+jinhua.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+bj.lvmama.com=>120.133.219.89
+search.lvmama.com=>120.133.219.89
+oss.lvmama.com=>CNAME img-1253170553.cos.ap-shanghai.myqcloud.com=>CNAME sh.file.myqcloud.com=>36.155.182.240=>36.155.242.91=>39.145.20.120=>36.155.242.92=>39.145.20.121=>39.145.20.104
+map.lvmama.com=>120.133.219.89
+yangzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+pic2.lvmama.com=>CNAME pic.lvmama.ccgslb.com.cn
+lvyue.lvmama.com=>120.133.219.89
+s.lvmama.com=>120.133.219.89
+bi.lvmama.com=>120.133.219.88
+huangshan.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+api.lvmama.com=>212.64.119.221
+flight.lvmama.com=>120.133.219.89
+ticket.lvmama.com=>120.133.219.89
+php.lvmama.com=>120.133.219.81
+member.lvmama.com=>120.133.219.88
+wap.lvmama.com=>118.89.126.225
+shiyi.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+xiamen.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+cs.lvmama.com=>120.133.219.71
+pan.lvmama.com=>120.133.219.81
+hotels.lvmama.com=>120.133.219.89
+pay.lvmama.com=>CNAME super.lvmama.com=>120.133.219.88
+gongyi.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+jsd.lvmama.com=>120.133.219.89
+c.lvmama.com=>10.112.3.41
+qing.lvmama.com=>120.133.219.89
+www2.lvmama.com=>CNAME www2.lvmama.comfastcdn.com
+hk.lvmama.com=>164.52.34.170
+qingdao.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+track.lvmama.com=>120.133.219.89
+dujia.lvmama.com=>120.133.219.89
+3g.lvmama.com=>118.89.126.225
+cat.lvmama.com=>120.133.219.88
+xuxiake.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+yy.lvmama.com=>120.133.219.89
+info.lvmama.com=>CNAME php2.lvmama.com=>120.133.219.74
+ark.lvmama.com=>10.200.4.80
+info.lvmama.com=>CNAME php2.lvmama.com=>120.133.219.74
+mail.lvmama.com=>CNAME exmail.qq.com=>120.241.150.114=>120.233.18.36=>120.232.67.187
+pc.lvmama.com=>120.133.219.89
+trace.lvmama.com=>49.234.242.130
+lijiang.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+img4.lvmama.com=>CNAME img-1253170553.image.myqcloud.com=>CNAME img-1253170553.image.myqcloud.com.cdn.dnsv1.com=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn.cjt.tx.aopntcdn.cn=>112.25.105.107=>223.111.117.103=>112.26.228.73=>36.150.35.231=>223.111.119.83
+wap.lvmama.com=>118.89.126.225
+munion.lvmama.com=>118.89.126.225
+vacations.lvmama.com=>49.234.242.130
+main.lvmama.com=>120.133.219.89
+sd.lvmama.com=>120.133.219.89
+zhangjiajie.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+guide.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+chongqing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+imap.lvmama.com=>CNAME imap.exmail.qq.com=>CNAME imap-v6.exmail.qq.com=>112.53.42.125=>120.232.22.49=>120.232.27.164=>112.60.20.192
+wuxi.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+shanxi.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+mailer.lvmama.com=>114.80.79.194
+qingdao.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+pay.lvmama.com=>CNAME super.lvmama.com=>120.133.219.88
+cl.lvmama.com=>CNAME super.lvmama.com=>120.133.219.88
+svn.lvmama.com=>10.200.3.13
+broadway.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+worldcup.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+www1.lvmama.com=>120.133.219.89
+ord.lvmama.com=>120.133.219.89
+mail.lvmama.com=>CNAME exmail.qq.com=>120.232.67.187=>120.241.150.114=>120.233.18.36
+suzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+fed.lvmama.com=>120.133.219.73
+xl.lvmama.com=>120.133.219.88
+sichuan.lvmama.com=>120.133.219.89
+huzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+flg.lvmama.com=>118.89.126.225
+super.lvmama.com=>120.133.219.88
+f.lvmama.com=>212.64.119.221
+bie.lvmama.com=>120.133.219.88
+www2.lvmama.com=>CNAME www2.lvmama.comfastcdn.com
+pic4.lvmama.com=>CNAME pic.lvmama.ccgslb.com.cn
+shanghai.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+online.lvmama.com=>118.89.126.225
+iguide.lvmama.com=>CNAME iguide.lvmama.ccgslb.com.cn
+yd.lvmama.com=>118.89.126.225
+risk.lvmama.com=>120.133.219.88
+devops.lvmama.com=>10.200.3.13
+ningbo.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+sas.lvmama.com=>212.64.119.221
+pic1.lvmama.com=>CNAME pic.lvmama.ccgslb.com.cn
+nanjing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+dc.lvmama.com=>49.234.242.130
+so.lvmama.com=>CNAME zhannei.baidu.com=>CNAME zhannei.a.shifen.com=>39.156.68.226
+member.lvmama.com=>120.133.219.88
+openapi.lvmama.com=>120.133.219.88
+smtp.lvmama.com=>CNAME smtp.exmail.qq.com=>CNAME smtp-v6.exmail.qq.com=>120.232.27.164=>112.60.20.192=>112.53.42.125=>120.232.22.49
+en.lvmama.com=>164.52.34.170
+jsd.lvmama.com=>120.133.219.89
+ark.lvmama.com=>10.200.4.80
+jiangxi.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+pic.lvmama.com=>CNAME pic.lvmama.com.bsclink.cn=>CNAME upichqipv6.v.bsclink.cn=>223.108.61.106=>223.108.61.109=>223.108.61.112=>223.108.61.101=>223.108.61.104=>223.108.61.113=>223.108.61.99=>223.108.61.102=>223.108.61.105=>223.108.61.108=>223.108.61.111=>223.108.61.103
+post.lvmama.com=>114.80.79.198
+dujia.lvmama.com=>120.133.219.89
+lvyue.lvmama.com=>120.133.219.89
+obs.lvmama.com=>CNAME obs.lvmama.com.livepush.myqcloud.com=>CNAME obs.lvmama.com.tlivepush.com=>CNAME yunlivepush.msf.tencent-cloud.com=>36.155.245.172=>36.155.186.75=>36.155.236.40=>36.155.210.207=>36.155.163.105=>36.155.202.156=>36.155.236.141=>36.155.228.223=>36.155.204.212=>36.155.251.125=>36.155.205.169=>36.155.240.112=>36.155.224.110=>36.155.205.149=>36.155.208.77=>36.155.163.97
+yy.lvmama.com=>120.133.219.89
+web.lvmama.com=>120.133.219.120
+mj.lvmama.com=>CNAME m.lvmama.com=>118.89.126.225
+hubei.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+d.lvmama.com=>118.25.118.174
+newinfo.lvmama.com=>120.133.219.81
+union.lvmama.com=>212.64.119.221
+pop.lvmama.com=>CNAME pop.exmail.qq.com=>120.232.27.164=>112.60.20.192=>112.53.42.125=>120.232.22.49
+guilin.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+dt.lvmama.com=>180.169.51.94
+dalian.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+static.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+train.lvmama.com=>120.133.219.89
+ticket.lvmama.com=>120.133.219.89
+my.lvmama.com=>120.133.219.89
+e.lvmama.com=>120.133.219.88
+xiamen.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+jinhua.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+flight.lvmama.com=>120.133.219.89
+cat.lvmama.com=>120.133.219.88
+pepsi.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+crm.lvmama.com=>120.133.219.88
+c.lvmama.com=>10.112.3.41
+sc.lvmama.com=>120.133.219.89
+xian.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+dfp.lvmama.com=>120.133.219.83
+trip.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+nexus.lvmama.com=>10.200.3.13
+md.lvmama.com=>212.64.46.250
+t.lvmama.com=>120.133.219.89
+hk.lvmama.com=>164.52.34.170
+hangzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+chunjie.lvmama.com=>120.133.219.89
+shaoxing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+rhino.lvmama.com=>120.133.219.83
+linan.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+pan.lvmama.com=>120.133.219.81
+img2.lvmama.com=>CNAME img-1253170553.image.myqcloud.com=>CNAME img-1253170553.image.myqcloud.com.cdn.dnsv1.com=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn.cjt.tx.aopntcdn.cn=>223.111.119.83=>36.150.35.231=>223.111.117.103=>112.25.105.107=>112.26.228.73
+xizang.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+gongyi.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+bj.lvmama.com=>120.133.219.89
+img1.lvmama.com=>CNAME img-1253170553.image.myqcloud.com=>CNAME img-1253170553.image.myqcloud.com.cdn.dnsv1.com=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn.cjt.tx.aopntcdn.cn=>112.26.228.73=>36.150.35.231=>223.111.119.83=>112.25.105.107=>223.111.117.103
+track.lvmama.com=>120.133.219.89
+mall.lvmama.com=>118.89.126.225
+haerbin.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+cc.lvmama.com=>10.0.1.12
+api.lvmama.com=>212.64.119.221
+pcadmin.lvmama.com=>120.133.219.83
+ipm.lvmama.com=>10.200.2.90
+m1.lvmama.com=>120.133.219.75
+ai.lvmama.com=>49.234.242.130
+hotel.lvmama.com=>120.133.219.89
+img3.lvmama.com=>CNAME img-1253170553.image.myqcloud.com=>CNAME img-1253170553.image.myqcloud.com.cdn.dnsv1.com=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn=>CNAME cdn-m49wxic9.sched.sma.tdnsstic1.cn.cjt.tx.aopntcdn.cn=>223.111.119.83=>36.150.35.231=>112.26.228.73=>223.111.117.103=>112.25.105.107
+child.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+zijia.lvmama.com=>120.133.219.89
+fenxiao.lvmama.com=>CNAME f.lvmama.com=>212.64.119.221
+youlun.lvmama.com=>120.133.219.89
+changzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+ns.lvmama.com=>49.234.242.130
+php.lvmama.com=>120.133.219.81
+nebula.lvmama.com=>120.133.219.88
+promo.lvmama.com=>120.133.219.80
+sonar.lvmama.com=>10.200.3.13
+zhoushan.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+2010.lvmama.com=>103.253.206.20
+ems.lvmama.com=>114.80.217.180
+biz.lvmama.com=>120.133.219.120
+res.lvmama.com=>49.234.242.130
+phpadmin.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+bus.lvmama.com=>120.133.219.89
+map.lvmama.com=>120.133.219.89
+sanya.lvmama.com=>120.133.219.89
+3g.lvmama.com=>118.89.126.225
+abe.lvmama.com=>121.4.18.105
+cmt.lvmama.com=>120.133.219.89
+mad.lvmama.com=>120.133.219.79
+xuxiake.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+login.lvmama.com=>120.133.219.89
+sandbox.lvmama.com=>120.133.219.88
+huangshan.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80
+ebooking.lvmama.com=>49.234.242.130
+search.lvmama.com=>120.133.219.89
+yangzhou.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+git.lvmama.com=>10.200.3.13
+pic2.lvmama.com=>CNAME pic.lvmama.ccgslb.com.cn
+cms.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+henan.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+fit.lvmama.com=>120.133.219.89
+hotels.lvmama.com=>120.133.219.89
+shouji.lvmama.com=>118.25.118.174
+jl.lvmama.com=>180.169.51.84
+opt.lvmama.com=>120.133.219.120
+s.lvmama.com=>120.133.219.89
+bi.lvmama.com=>120.133.219.88
+tuan.lvmama.com=>120.133.219.81
+fx.lvmama.com=>212.64.119.221
+www.lvmama.com=>CNAME www.lvmama.com.bsclink.cn=>CNAME upichq.v.bsclink.cn=>120.220.20.21=>120.220.20.22=>120.220.20.25=>120.220.20.23=>120.220.20.20=>120.220.20.24=>112.47.52.26
+alipay.lvmama.com=>118.25.118.174
+bbs.lvmama.com=>139.224.52.251=>139.224.52.175
+weixin.lvmama.com=>118.25.118.174
+pms.lvmama.com=>120.133.219.73
+sct.lvmama.com=>CNAME php.lvmama.com=>120.133.219.81
+dim.lvmama.com=>120.133.219.77
+open.lvmama.com=>212.64.119.221
+op.lvmama.com=>120.133.219.78
+zt.lvmama.com=>120.133.219.89
+bdc.lvmama.com=>49.234.242.130
+gd.lvmama.com=>120.133.219.89
+diy.lvmama.com=>120.133.219.89
+info.lvmama.com=>CNAME php2.lvmama.com=>120.133.219.74
+mind.lvmama.com=>118.89.126.225
+qing.lvmama.com=>120.133.219.89
+conf.lvmama.com=>10.200.4.80
+m.lvmama.com=>118.89.126.225
+oss.lvmama.com=>CNAME img-1253170553.cos.ap-shanghai.myqcloud.com=>CNAME sh.file.myqcloud.com=>39.145.20.120=>39.145.20.104=>36.155.242.91=>36.155.242.92=>36.155.182.240=>39.145.20.121
+jr.lvmama.com=>49.234.242.130
+cs.lvmama.com=>120.133.219.71
+tech.lvmama.com=>42.192.63.114
+jiaxing.lvmama.com=>CNAME php1.lvmama.com=>120.133.219.81
+bdc.lvmama.com=>49.234.242.130
+work.lvmama.com=>120.133.219.72
+bl.lvmama.com=>120.133.219.89
+shiyi.lvmama.com=>CNAME promo.lvmama.com=>120.133.219.80

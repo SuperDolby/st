@@ -1,0 +1,74 @@
+[38;2;105;187;92m
+     ______    __         ______                 
+    / ____/___/ /___ ____/_  __/__  ____ _____ ___ 
+   / __/ / __  / __ `/ _ \/ / / _ \/ __ `/ __ `__ \
+  / /___/ /_/ / /_/ /  __/ / /  __/ /_/ / / / / / /
+ /_____/\__,_/\__, /\___/_/  \___/\__,_/_/ /_/ /_/ 
+			 /____/ https://forum.ywhack.com  By:shihuang
+[0m
+[ http://b.ztgame.com |  | Lego Server | 404 | 0 |  ]
+[ https://space.ztgame.com |  | Apache/2.4.38 (Debian) | 403 | 281 | 403 Forbidden ]
+[ https://tb.ztgame.com |  | nginx | 200 | 612 | Welcome to nginx! ]
+[ https://mango.ztgame.com |  | None | 403 | 9 |  ]
+[ https://long.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 3863 | 龙与世界的尽头-官方网站 ]
+[ https://js.ztgame.com |  | nginx | 200 | 10 |  ]
+[ http://znq.ztgame.com |  | nginx | 200 | 612 | Welcome to nginx! ]
+[ https://fun.ztgame.com |  | nginx | 200 | 1119 |  ]
+[ https://channel.ztgame.com |  | nginx/1.18.0 (Ubuntu) | 403 | 162 | 403 Forbidden ]
+[ https://pay.ztgame.com |  | nginx | 200 | 35058 | 在线充值 | 充值中心 ]
+[ https://jr.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 15742 | 《巨人·超能战甲》官方网站 ]
+[ https://jbg.ztgame.com |  | nginx | 200 | 16896 | 聚宝阁 - 征途游戏官方合作交易平台 ]
+[ https://zthj.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 22184 | 《征途》怀旧版官方网站--2023征途全系嘉年华6.9开启 送3亿福利 ]
+[ https://ztc.ztgame.com |  | nginx/1.13.0 | 200 | 346 | 征途大神社区 ]
+[ https://page.ztgame.com |  | openresty | 200 | 2262 | mango-ssr ]
+[ https://zt2.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 33008 | 【征途2】官方网站-2023征途全系嘉年华6.9开启 送3亿福利 ]
+[ https://gad.ztgame.com |  | None | 403 | 9 |  ]
+[ https://zhichi.ztgame.com |  | None | 400 | 0 |  ]
+[ https://jhw.ztgame.com |  | nginx | 401 | 46 |  ]
+[ https://payapi.ztgame.com |  | nginx | 401 | 46 |  ]
+[ https://counter.ztgame.com |  | nginx | 200 | 21 |  ]
+[ https://czt.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 39856 | 《征途穿越穿区》-你的初恋征途 打造最高人气新区！ ]
+[38;2;237;64;35m[ https://my.ztgame.com | PHP | nginx | 200 | 8621 | 账号管理中心 ][0m
+[ https://payserver.ztgame.com |  | nginx | 200 | 612 | Welcome to nginx! ]
+[ https://athena.ztgame.com |  | nginx | 403 | 564 | 403 Forbidden ]
+[ https://xx.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 12100 | 资料片新区“骄阳似火”7月20日震撼来袭！——《仙侠世界》官方网站 ]
+[ https://hsw.ztgame.com |  | openresty | 502 | 556 | 502 Bad Gateway ]
+[ https://bob.ztgame.com |  | None | 200 | 386 | Document ]
+[38;2;237;64;35m[ https://me.ztgame.com | PHP | nginx | 200 | 8621 | 账号管理中心 ][0m
+[ https://els.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 57105 | 艾尔之光-ELSWORD-官方网站-二次元动漫格斗网游 ]
+[38;2;237;64;35m[ https://bbs.ztgame.com | Discuz! | None | 200 | 13543 | 论坛 -  Powered by Discuz! ][0m
+[ https://www.ztgame.com |  | Lego Server | 200 | 39400 | 巨人网络官网 - 聚焦擅长赛道，集中力量打造爆款 ]
+[ https://xzt.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 34532 | 新闻中心_        《征途》官方网站-2023征途全系嘉年华6.9开启 送3亿福利 ]
+[38;2;237;64;35m[ https://kok3.ztgame.com | PHP | Apache/2.2.34 (Unix) DAV/2 PHP/5.4.45 | 200 | 17981 | 万王之王 雷霆之怒 新服开启 ][0m
+[ https://jl.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 27276 | 街篮丨首款3V3篮球真竞技手游 ]
+[ https://ls.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 15252 | 《绿色征途》官方网站--2023征途全系嘉年华6.9开启 送3亿福利 ]
+[ https://jd.ztgame.com |  | Apache/2.4.38 (Debian) | 200 | 14290 | 新闻中心_经典专区_【征途2】官方网站-2023征途全系嘉年华6.9开启 送3亿福利 ]
+[ https://fun.ztgame.com/pc.html? |  | nginx | 200 | 11655 |  ]
+[ https://fun.ztgame.com/mobile.html? |  | nginx | 200 | 14996 |  ]
+[38;2;237;64;35m[ https://mail1.ztgame.com | Outlook Web Application,Outlook | Microsoft-IIS/8.5 | 200 | 27960 | Outlook ][0m
+[38;2;237;64;35m[ https://autodiscover.ztgame.com | Outlook Web Application,Outlook | Microsoft-IIS/8.5 | 200 | 27974 | Outlook ][0m
+[ https://gsm.ztgame.com |  | None | 200 | 3154 | 巨人供应商管理平台 ]
+[ https://vg.ztgame.com |  | Lego Server | 404 | 19 |  ]
+[ https://mail1.ztgame.com/.. |  | Microsoft-HTTPAPI/2.0 | 403 | 312 | Forbidden ]
+[38;2;237;64;35m[ http://mb.ztgame.com | PHP | PHP/7.2.8 | 200 | 2763 | 应用下载 ][0m
+[ https://autodiscover.ztgame.com/.. |  | Microsoft-HTTPAPI/2.0 | 403 | 312 | Forbidden ]
+[ https://dudu.ztgame.com |  | Tengine | 200 | 80465 | 首页丨嘟嘟直播丨嘟嘟语音官方网站丨巨人游戏 ]
+[ https://jr.ztgame.com/m |  | Apache/2.4.38 (Debian) | 200 | 15613 | 《巨人·超能战甲》官方网站 ]
+[ http://bb.ztgame.com |  | Tengine | 200 | 80390 | 首页丨嘟嘟直播丨嘟嘟语音官方网站丨巨人游戏 ]
+[ https://els.ztgame.com/m |  | Apache/2.4.38 (Debian) | 200 | 38281 | 艾尔之光-ELSWORD-官方网站-二次元动漫格斗网游 ]
+[ https://jl.ztgame.com/m |  | Apache/2.4.38 (Debian) | 200 | 34718 | 街篮丨首款3V3篮球真竞技手游 ]
+[38;2;237;64;35m[ https://login.ztgame.com | PHP | PHP/5.6.40 | 200 | 20223 | 登录 ][0m
+[ https://dudu.ztgame.com/shop/index |  | Tengine | 200 | 80389 | 首页丨嘟嘟直播丨嘟嘟语音官方网站丨巨人游戏 ]
+[ https://dudu.ztgame.com/user/singerSign?singer= |  | Tengine | 200 | 80464 | 首页丨嘟嘟直播丨嘟嘟语音官方网站丨巨人游戏 ]
+[ http://bb.ztgame.com/user/singerSign?singer= |  | Tengine | 200 | 80465 | 首页丨嘟嘟直播丨嘟嘟语音官方网站丨巨人游戏 ]
+[ http://bb.ztgame.com/shop/index |  | Tengine | 200 | 80464 | 首页丨嘟嘟直播丨嘟嘟语音官方网站丨巨人游戏 ]
+[38;2;244;211;49m
+重点资产：[0m
+[ https://my.ztgame.com | [38;2;237;64;35mPHP[0m | nginx | 200 | 8621 | 账号管理中心 ]
+[ https://me.ztgame.com | [38;2;237;64;35mPHP[0m | nginx | 200 | 8621 | 账号管理中心 ]
+[ https://bbs.ztgame.com | [38;2;237;64;35mDiscuz![0m | None | 200 | 13543 | 论坛 -  Powered by Discuz! ]
+[ https://kok3.ztgame.com | [38;2;237;64;35mPHP[0m | Apache/2.2.34 (Unix) DAV/2 PHP/5.4.45 | 200 | 17981 | 万王之王 雷霆之怒 新服开启 ]
+[ https://mail1.ztgame.com | [38;2;237;64;35mOutlook Web Application,Outlook[0m | Microsoft-IIS/8.5 | 200 | 27960 | Outlook ]
+[ https://autodiscover.ztgame.com | [38;2;237;64;35mOutlook Web Application,Outlook[0m | Microsoft-IIS/8.5 | 200 | 27974 | Outlook ]
+[ http://mb.ztgame.com | [38;2;237;64;35mPHP[0m | PHP/7.2.8 | 200 | 2763 | 应用下载 ]
+[ https://login.ztgame.com | [38;2;237;64;35mPHP[0m | PHP/5.6.40 | 200 | 20223 | 登录 ]

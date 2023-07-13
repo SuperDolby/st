@@ -1,0 +1,71 @@
+beacon.laiyifen.com=>CNAME 8c99baa640804371a41cb5c933194af9.vip1.huaweicloudwaf.com=>123.60.127.47=>119.3.116.154=>119.3.116.124=>123.60.127.63
+tj.laiyifen.com=>180.153.18.39
+sm.laiyifen.com=>180.153.18.39
+video5.laiyifen.com=>CNAME video5.laiyifen.com.cdn.dnsv1.com.cn=>CNAME 8trzj3fv.sched.vplego.tdnsvod4.cn=>CNAME 8trzj3fv.sched.vplego.tdnsvod4.cn.cvod.cdn.cds.yhcdnc.cn=>223.109.203.78=>183.249.104.83=>39.173.183.109=>183.245.148.81=>111.0.17.54=>112.16.242.88=>39.175.170.165=>111.0.17.232=>183.249.125.80=>183.249.97.111=>112.16.242.91
+gio.laiyifen.com=>CNAME ad3e1ed1530941adbb3a8e7d177da9a5.vip1.huaweicloudwaf.com=>122.112.208.226=>122.112.208.227=>119.3.116.120=>119.3.116.163
+admin.laiyifen.com=>CNAME 88ff34eb781d4368b233bdc481eb9466.vip1.huaweicloudwaf.com=>123.60.127.34=>123.60.127.40=>122.112.208.35
+auth.laiyifen.com=>CNAME 1f464a1f350b4dd1b32d07ca95c07858.vip1.huaweicloudwaf.com=>119.3.116.142=>119.3.116.147=>123.60.127.46=>123.60.127.42
+pi.laiyifen.com=>58.33.242.23
+bpm.laiyifen.com=>58.33.242.11
+hls.laiyifen.com=>CNAME 8d848a99.hls.ucloud.com.cn
+pim.laiyifen.com=>180.153.18.35
+files.laiyifen.com=>CNAME 43fa4addf2fd4a54b4da6244d233e323.vip1.huaweicloudwaf.com=>122.112.208.35=>122.112.208.37=>123.60.127.45=>123.60.127.61
+vpn1.laiyifen.com=>124.74.147.82
+xmd.laiyifen.com=>58.33.242.26
+static3.laiyifen.com=>CNAME adee7539.cdn.ucloud.com.cn=>CNAME static3.laiyifen.com.ucloudnaming.cn=>CNAME sz-ucloud-all.ucloudnaming.info=>223.109.48.132=>223.109.48.220
+study.laiyifen.com=>119.3.6.241
+dev.laiyifen.com=>58.246.180.78
+mip.laiyifen.com=>58.33.242.27
+ez.laiyifen.com=>180.169.8.5
+openapi.laiyifen.com=>CNAME 1570738f23e1491faa392b8e4dd7fb32.vip1.huaweicloudwaf.com=>122.112.208.35=>123.60.127.35=>123.60.127.1
+images2.laiyifen.com=>180.153.18.36
+doc.laiyifen.com=>58.33.242.13
+company.laiyifen.com=>CNAME ea2vusrs9bmq70zxeymnicbchxnxcd9o.aliyundunwaf.com
+m.laiyifen.com=>CNAME c6c2f5f4df634d2e997df0a5ae87564b.vip1.huaweicloudwaf.com=>119.3.116.164=>123.60.127.44=>123.60.127.26=>119.3.116.165
+yp.laiyifen.com=>180.166.249.141
+pmail.laiyifen.com=>58.33.242.19
+os.laiyifen.com=>180.153.18.40
+sales.laiyifen.com=>CNAME 96505735be854130a1c7df44965cab97.vip1.huaweicloudwaf.com=>122.112.208.226=>122.112.208.224=>119.3.116.102=>119.3.116.166
+static.laiyifen.com=>CNAME e30ac2b1a0ac4d878f215386f8ac2421.vip1.huaweicloudwaf.com=>119.3.116.132=>119.3.116.146=>123.60.127.42=>123.60.127.62
+vpn.laiyifen.com=>124.74.147.82
+vc.laiyifen.com=>180.166.249.137
+crm.laiyifen.com=>CNAME 84b6d63ef9614dcea63891cf8a966163.vip1.huaweicloudwaf.com=>122.112.208.224=>119.3.116.126=>122.112.208.225=>119.3.116.177
+images.laiyifen.com=>180.153.18.36
+po.laiyifen.com=>103.147.124.10
+itsm.laiyifen.com=>CNAME ca71af864ed5491ea50a2a87039ae23e.vip1.huaweicloudwaf.com=>122.112.208.227=>122.112.208.226=>119.3.116.130=>119.3.116.129
+eip.laiyifen.com=>58.33.242.21
+ehr.laiyifen.com=>CNAME 045cb5c1794e4f2ba82050086502fa2b.vip1.huaweicloudwaf.com=>119.3.116.171=>119.3.116.147=>122.112.208.225=>122.112.208.224
+invest.laiyifen.com=>58.33.242.17
+test1.laiyifen.com=>221.133.234.7
+mobile.laiyifen.com=>58.33.242.23
+images3.laiyifen.com=>180.153.18.36
+api.laiyifen.com=>CNAME db408722c81d4fc0a5181ef225dbb645.vip1.huaweicloudwaf.com=>123.60.127.53=>119.3.116.111=>123.60.127.64=>119.3.116.133
+blog.laiyifen.com=>211.136.162.210
+cem.laiyifen.com=>CNAME 3063e5c58ed7409090eaee89053e7a4d.vip1.huaweicloudwaf.com=>119.3.116.146=>119.3.116.151=>122.112.208.225=>122.112.208.226
+svpn.laiyifen.com=>58.33.242.13
+crm3.laiyifen.com=>106.15.156.60
+image1.laiyifen.com=>CNAME b6d3889d.cdn.ucloud.com.cn
+sem.laiyifen.com=>58.33.242.14
+game.laiyifen.com=>CNAME typxbws9r1w4xtly5hvxoqvsmqho9yic.alicloudwaf.com
+yqz.laiyifen.com=>CNAME ce8a3c9e91e442f4b77917538d9f3b3e.vip1.huaweicloudwaf.com=>122.112.208.227=>122.112.208.224=>119.3.116.141=>119.3.116.113
+af.laiyifen.com=>CNAME 0b49e7683a394018889e1c089235e761.vip1.huaweicloudwaf.com=>119.3.116.121=>119.3.116.165=>122.112.208.224=>122.112.208.226
+cim.laiyifen.com=>180.153.18.35
+sms.laiyifen.com=>58.33.242.19
+sds.laiyifen.com=>CNAME 3c57db8600b543f0898626a858be23cc.vip1.huaweicloudwaf.com=>123.60.127.65=>119.3.116.155=>123.60.127.40=>119.3.116.160
+supplier.laiyifen.com=>58.33.242.14
+static1.laiyifen.com=>CNAME 65516eff.cdn.ucloud.com.cn=>CNAME static1.laiyifen.com.ucloudnaming.cn=>CNAME sz-ucloud-all.ucloudnaming.info=>223.109.48.220=>223.109.48.132
+video2.laiyifen.com=>CNAME video2.laiyifen.com.cdn.dnsv1.com.cn=>CNAME ms7l3ono.sched.vplego.tdnsvod4.cn=>CNAME ms7l3ono.sched.vplego.tdnsvod4.cn.cvod.cdn.cds.yhcdnc.cn=>39.175.170.165=>39.173.183.109=>183.245.148.81=>183.249.97.111=>223.109.203.78=>112.16.242.91=>111.0.17.232=>111.0.17.54=>183.249.125.80=>183.249.104.83=>112.16.242.88
+oim.laiyifen.com=>180.153.18.35
+group.laiyifen.com=>180.153.18.39
+ldap.laiyifen.com=>58.33.242.22
+dms.laiyifen.com=>CNAME b91f340809014887b7e0b53cbf26b28c.vip1.huaweicloudwaf.com=>122.112.208.225=>119.3.116.108=>122.112.208.226=>119.3.116.118
+search.laiyifen.com=>106.14.53.98
+tuangou.laiyifen.com=>180.153.18.39
+icc.laiyifen.com=>CNAME ebf87c99494948c89745b003cca74956.vip1.huaweicloudwaf.com=>119.3.116.150=>123.60.127.70=>123.60.127.36=>119.3.116.125
+t.laiyifen.com=>CNAME 2485c6958056427c8820e6241d68e099.vip1.huaweicloudwaf.com=>119.3.116.120=>123.60.127.75=>119.3.116.146=>123.60.127.66
+images4.laiyifen.com=>180.153.18.36
+ni.laiyifen.com=>106.14.53.98
+eam.laiyifen.com=>58.33.242.24
+cctv.laiyifen.com=>211.136.172.227
+lfz.laiyifen.com=>CNAME f3bcb6c25e7e4e188692a7614ce9b1bf.vip1.huaweicloudwaf.com=>123.60.127.32=>119.3.116.138=>119.3.116.156=>123.60.127.33
+vpn2.laiyifen.com=>124.74.147.82
